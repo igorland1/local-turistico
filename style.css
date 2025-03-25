@@ -5,30 +5,49 @@
     border-color: #d9d9d9
 }
 
-h1 {
+main {
+    width: 1120px;
+    height: 3054px;
+    padding: 80px;
+}
+
+h1 h2 h3 headline {
     font-weight: bold;
+}
+
+h1 {
     font-size: 36px;
 }
 
 h2 {
-    font-weight: bold;
     font-size: 32px;
 }
 
 h3 {
-    font-weight: bold;
     font-size: 28px;
 }
 
-p {
+headline p {
     font-size: 16px;
-    font-weight: regular;
+}
+
+headline {
+    color: #e1624f;
+}
+
+p {
+    font-weight: normal;
+}
+
+#subtitle {
+    font-size: 16px;
+    font-weight: italic;
 }
 
 img {
     border-radius: 28px;
     width: 100%;
-  }
+}
 
 .divisor {
     width: 100%;
@@ -37,7 +56,7 @@ img {
     background-color: #d9d9d9;
 }
 
-#subtitle {
-    font-size: 16px;
-    font-weight: italic;
+footer {
+    width: 206px;
+    height: 24px;
 }
