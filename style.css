@@ -2,13 +2,15 @@
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     background-color: #f5f4f0;
-    border-color: #d9d9d9
+    border-color: #d9d9d9;
 }
 
 main {
     width: 1120px;
     height: 3054px;
     padding: 80px;
+    display: block;
+    margin: 0 auto;
 }
 
 h1 h2 h3 headline {
@@ -59,4 +61,7 @@ img {
 footer {
     width: 206px;
     height: 24px;
+    display: block;
+    margin: 0 auto;
+    padding: 0 auto;
 }
