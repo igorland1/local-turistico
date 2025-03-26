@@ -1,7 +1,10 @@
-# Projeto Rocketseat !
+# Local Turístico
 
-# Formação Full Stack
+##🚀 Projeto da Formação Full-Stack | Rocketseat
 
-# Locais Turísticos
+## 🛠 Tecnologias Utilizadas
+- **HTML, CSS e JavaScript**
 
-Tema: Kyoto - Japan
+📜 Licença
+
+Este projeto está licenciado sob a MIT License.
