@@ -1,3 +1,7 @@
-# local-turistico
+# Projeto Rocketseat !
 
-yeah!
+# Formação Full Stack
+
+# Locais Turísticos
+
+Tema: Kyoto - Japan
