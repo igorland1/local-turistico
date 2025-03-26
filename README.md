@@ -1,6 +1,6 @@
 # Local Turístico
 
-##🚀 Projeto da Formação Full-Stack | Rocketseat
+## 🚀 Projeto da Formação Full-Stack | Rocketseat
 
 ## 🛠 Tecnologias Utilizadas
 - **HTML, CSS e JavaScript**
