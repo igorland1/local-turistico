@@ -6,14 +6,16 @@
 }
 
 main {
-    width: 1120px;
-    height: 3054px;
+    max-width: 1120px;
+    width: 90%;
+    height: auto;
+    /* Evita altura fixa */
     padding: 80px;
     display: block;
     margin: 0 auto;
 }
 
-h1 h2 h3 headline {
+h1, h2, h3 {
     font-weight: bold;
 }
 
@@ -27,28 +29,56 @@ h2 {
 
 h3 {
     font-size: 28px;
-}
-
-headline p {
-    font-size: 16px;
-}
-
-headline {
-    color: #e1624f;
+    margin-top: 20px;
 }
 
 p {
-    font-weight: normal;
-}
-
-#subtitle {
     font-size: 16px;
-    font-weight: italic;
+    font-weight: normal;
 }
 
 img {
     border-radius: 28px;
     width: 100%;
+}
+
+footer {
+    width: 100%;
+    height: 60px;
+    /* Aumenta a altura */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.list {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.item-01 {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+.item-02 {
+    color: #E95E10;
+    font-weight: bold;
+}
+
+.item-03 {
+    color: #591B98;
+    font-weight: bold;
+    margin-bottom: 48px; /* Ajuste o valor conforme necessário */
+}
+
+.headline {
+    color: #e1624f;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .divisor {
@@ -58,10 +88,8 @@ img {
     background-color: #d9d9d9;
 }
 
-footer {
-    width: 206px;
-    height: 24px;
-    display: block;
-    margin: 0 auto;
-    padding: 0 auto;
+#subtitle {
+    font-size: 16px;
+    font-weight: italic;
+    text-align: center;
 }
